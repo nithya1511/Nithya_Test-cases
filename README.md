@@ -1,3 +1,3 @@
 # Nithya_Test-cases
 
-https://nithya.testmo.net/projects/view/2
+https://nithya.testmo.net/projects/docs/2
